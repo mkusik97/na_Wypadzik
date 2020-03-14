@@ -1,0 +1,44 @@
+body {}
+
+#container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo {
+    background-color: white;
+    font-family: Trattatello, fantasy;
+    color: rgb(56, 56, 90);
+    text-align: center;
+    padding: 10px;
+}
+
+#nav {
+    background-color: white;
+    color: rgb(15, 38, 37);
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+    width: 1000px;
+    min-height: 100px;
+    padding: 10px;
+}
+
+#content {
+    background-color: white;
+    color: rgb(56, 56, 90);
+    text-align: center;
+}
+
+#footer {
+    clear: both;
+    background-color: rgb(254, 233, 233);
+    color: rgb(123, 199, 193);
+    text-align: center;
+    padding: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
